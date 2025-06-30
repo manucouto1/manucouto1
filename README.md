@@ -1,4 +1,5 @@
 # Manuel Couto Pintos
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manucouto1&label=Profile%20views&color=0e75b6&style=flat" alt="manucouto1" /> </p>
 
 ### Software Engineer & AI/NLP Researcher
 

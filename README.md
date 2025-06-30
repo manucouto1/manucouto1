@@ -40,7 +40,7 @@
         <p align="left">
           <sub><code>Next.js</code> ⋅ <code>TypeScript</code> ⋅ <code>Vercel</code></sub>
           <br><br>
-          <a href="https://demo-inside-the-lab.vercel.app/" target="_blank"><strong>Live Demo →</strong></a>
+          <a href="https://citius-iria-erisk.github.io/demo-inside-the-lab/" target="_blank"><strong>Visit Website →</strong></a>
         </p>
       </div>
     </td>

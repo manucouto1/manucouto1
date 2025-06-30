@@ -15,17 +15,6 @@ I'm a software engineer and AI researcher with a strong background in **Natural 
 
 ---
 
-## 🔍 Looking For
-
-I'm currently seeking **remote opportunities** (freelance or full-time) where I can:
-
-- Apply my expertise in **AI, NLP, and ML tooling**
-- Contribute to **research-based** or **high-impact tech projects**
-- Collaborate with teams that value **clean code, testing, and good engineering practices**
-- Learn, grow, and take on **new challenges**
-
----
-
 ## ⚙️ Tech Stack
 
 - 🐍 Python (PyTorch, Transformers, FastAPI, Pandas)
@@ -51,7 +40,3 @@ I'm currently seeking **remote opportunities** (freelance or full-time) where I 
 - 📄 [Google Scholar](https://scholar.google.es/citations?user=AYXHeT4AAAAJ&hl=es)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/manuel-couto-pintos-96a20a130/)
 
----
-
-> “Build knowledge. Share code. Stay curious.”  
-> — Manuel Couto Pintos

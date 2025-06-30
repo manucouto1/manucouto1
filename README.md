@@ -81,7 +81,7 @@
 
 ### 📝 Recent Publications
 
-- **Interpreting Word Meaning Evolution**: Published in *Applied Intelligence* (Q1 JCR). **[Read Paper](https://link.springer.com/article/10.1007/s41666-025-00186-9)**
-- **A Study of Word Embedding Models...**: Presented at *SEPLN 2022*. **[Read Paper](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6601)**
+- **Temporal Word Embeddings for Early Detection of Psychological Disorders on Social Media**: Published in *Journal of Healthcare Informatics Research* (Q1 JCR). **[Read Paper](https://link.springer.com/article/10.1007/s41666-025-00186-9)**
+- **Comparison of Clustering Algorithms for Knowledge Discovery in Social Media Publications: A Case Study of Mental Health Analysis**: Presented at *SEPLN 2024*. **[Read Paper](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6601)**
 
 ---

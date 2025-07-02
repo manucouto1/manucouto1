@@ -41,7 +41,7 @@
         <p align="left">
           <sub><code>Next.js</code> ⋅ <code>TypeScript</code> ⋅ <code>Vercel</code></sub>
           <br><br>
-          <a href="https://citius-iria-erisk.github.io/chatty/" target="_blank"><strong>Visit Website →</strong></a>
+          <a href="https://citius-iria-erisk.github.io/Chatty/" target="_blank"><strong>Visit Website →</strong></a>
         </p>
       </div>
     </td>

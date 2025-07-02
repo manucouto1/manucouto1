@@ -69,6 +69,30 @@
     </td>
     <td width="50%" valign="top">
       <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; height: 100%;">
+        <h3 align="left"><a href="https://github.com/manucouto1/Temporal-Word-Embeddings-for-Early-Detection-of-Psychological-Disorders-on-Social-Media">🧠 Temporal Embeddings</a></h3>
+        <p align="left">Early detection of mental health risks using temporal dynamics of word embeddings on social media. Published in JHIR (Q1).</p>
+        <p align="left">
+           <sub><code>Python</code> ⋅ <code>Gensim</code> ⋅ <code>PyTorch</code> ⋅ <code>BERT</code></sub>
+           <br><br>
+           <a href="https://link.springer.com/article/10.1007/s41666-025-00186-9" target="_blank"><strong>Read Paper →</strong></a>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; height: 100%;">
+        <h3 align="left">🧠 Hierarchical Attention Pooling</h3>
+        <p align="left">Hierarchical model for early mental health detection. Builds chunk-level temporal representations via multi-level attention.</p>
+        <p align="left">
+           <sub><code>Python</code> ⋅ <code>PyTorch</code> ⋅ <code>Attention</code> ⋅ <code>LSTM</code></sub>
+           <br><br>
+           <em><strong>Repository private for now</strong></em>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; height: 100%;">
         <h3 align="left">🔬 New Research in Progress</h3>
         <p align="left">Currently finalizing new projects on applied AI, autonomous agents, and P2P systems. Stay tuned!</p>
          <p align="left">
@@ -79,6 +103,7 @@
   </tr>
 </tbody>
 </table>
+
 
 ### 📝 Recent Publications
 

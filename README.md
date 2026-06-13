@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/EMNLP-2025-4b0082?style=flat-square" />
   <img src="https://img.shields.io/badge/Scientific_Reports-Q1-darkgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/J._Healthcare_Informatics_Research-Q1-darkgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Knowledge_&_Information_Systems-Q1-darkgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Knowledge_&_Information_Systems-Q2-2e8b57?style=flat-square" />
   <img src="https://img.shields.io/badge/SoftwareX-2026-orange?style=flat-square" />
 </p>
 
@@ -187,7 +187,7 @@
 **Published**
 
 1. **Exploiting topic analysis models to explore psychological dimensions in social media data** — *Scientific Reports* (2026, **Q1**). [Read →](https://doi.org/10.1038/s41598-026-36339-y)
-2. **A study of word embedding models for measuring topic coherence** — *Knowledge and Information Systems* (2026, **Q1**). [Read →](https://doi.org/10.1007/s10115-026-02782-6)
+2. **A study of word embedding models for measuring topic coherence** — *Knowledge and Information Systems* (2026, **Q2**). [Read →](https://doi.org/10.1007/s10115-026-02782-6)
 3. **LabChain: Enabling reproducible and modular scientific experiments in Python** — *SoftwareX* (2026). [Read →](https://www.sciencedirect.com/science/article/pii/S2352711026000373)
 4. **Analyzing Gambling Addictions: A Spanish Corpus for Understanding Pathological Behavior** — *Findings of the ACL: EMNLP 2025*. [Read →](https://aclanthology.org/2025.findings-emnlp.955/)
 5. **Temporal Word Embeddings for Early Detection of Psychological Disorders on Social Media** — *Journal of Healthcare Informatics Research* (2025, **Q1**). [Read →](https://link.springer.com/article/10.1007/s41666-025-00186-9)

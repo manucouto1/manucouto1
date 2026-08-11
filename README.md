@@ -4,39 +4,19 @@
   <img src="https://komarev.com/ghpvc/?username=manucouto1&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-### 🧠 AI Researcher & Software Engineer · Neuromorphic NLP
+### 💻 Software Engineer · PhD (cum laude)
 
 <p align="left">
-  <b>AI PhD Candidate</b> at <a href="https://citius.usc.es/">CiTIUS (USC)</a>. I build <b>neuromorphic architectures</b> —
-  spiking (SNN/LIF) and continuous-time (CfC) networks — for <b>clinical NLP</b> and <b>early-risk detection</b> on social media.
-  I pair that research with full-stack engineering, from distributed Rust runtimes to P2P apps and interactive web interfaces.
+  I'm a <b>software engineer who did a PhD</b> (cum laude). I design, build, and ship complete systems
+  end-to-end — from distributed <b>Rust</b> runtimes and <b>P2P</b> apps to <b>AI tooling</b> and interactive
+  web interfaces. I like owning things from architecture to deployment, and keeping them running.
+  My doctoral research was in <b>ML / NLP</b>.
 </p>
 
 <p align="left">
-  <a href="https://scholar.google.es/citations?user=AYXHeT4AAAAJ&hl=es" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/manuel-couto-pintos-96a20a130/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://citius.usc.es/" target="_blank"><img src="https://img.shields.io/badge/CiTIUS_·_USC-8A1538?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://scholar.google.es/citations?user=AYXHeT4AAAAJ&hl=es" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 </p>
-
----
-
-### 📊 Research at a Glance
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Publications-7_published_·_2_to_appear-0e75b6?style=flat-square" />
-  <img src="https://img.shields.io/badge/Citations-22-success?style=flat-square&logo=googlescholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/h--index-2-success?style=flat-square" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/EMNLP-2025-4b0082?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scientific_Reports-Q1-darkgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/J._Healthcare_Informatics_Research-Q1-darkgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Knowledge_&_Information_Systems-Q2-2e8b57?style=flat-square" />
-  <img src="https://img.shields.io/badge/SoftwareX-2026-orange?style=flat-square" />
-</p>
-
-> **Current line:** moving beyond hard top-K routing toward biologically-motivated gating (spiking & continuous-time)
-> for **interpretable, time-resolved** mental-health modeling.
 
 ---
 
@@ -63,38 +43,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🧠 Neuromorphic NLP — current research line
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody>
-  <tr>
-    <td width="50%" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; height: 100%;">
-        <h3 align="left">⚡ Mixture-of-Symptoms (MoS)</h3>
-        <p align="left">Neuromorphic symptom routing (LIF spikes / CfC) for <b>early depression detection</b> on social media. Replaces collapse-prone top-K routing with per-user, per-symptom gating anchored to BDI-II — interpretability <em>and</em> accuracy above the RNN ceiling (F1 .617 on eRisk 2022).</p>
-        <p align="left">
-          <sub><code>PyTorch</code> ⋅ <code>SNN/LIF</code> ⋅ <code>CfC</code> ⋅ <code>BERT-tiny</code></sub>
-          <br><br>
-          <em><strong>Private · under review (EMNLP)</strong></em>
-        </p>
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; height: 100%;">
-        <h3 align="left">📈 When Topics Spike</h3>
-        <p align="left">A <b>neuromorphic topic model</b> for time-resolved theme evolution and clinical grounding in early-risk text collections. Brings spiking dynamics to temporal topic modeling so themes emerge — and fade — over a user's timeline.</p>
-        <p align="left">
-          <sub><code>PyTorch</code> ⋅ <code>Spiking NN</code> ⋅ <code>Topic Modeling</code> ⋅ <code>Temporal</code></sub>
-          <br><br>
-          <em><strong>Private · under review (ACL)</strong></em>
-        </p>
-      </div>
-    </td>
-  </tr>
-</tbody>
-</table>
-
-#### ⚙️ AI Research Infrastructure — the *Nous · Soma · Chronos* ecosystem
+#### ⚙️ AI & Research Infrastructure
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody>
@@ -180,39 +129,59 @@
 </tbody>
 </table>
 
+#### 🧠 Research — Neuromorphic NLP
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+  <tr>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; height: 100%;">
+        <h3 align="left">⚡ Mixture-of-Symptoms (MoS)</h3>
+        <p align="left">Neuromorphic symptom routing (LIF spikes / CfC) for <b>early depression detection</b> on social media, with per-user, per-symptom gating anchored to BDI-II for interpretability.</p>
+        <p align="left">
+          <sub><code>PyTorch</code> ⋅ <code>SNN/LIF</code> ⋅ <code>CfC</code></sub>
+          <br><br>
+          <em><strong>Private · under review</strong></em>
+        </p>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; height: 100%;">
+        <h3 align="left">📈 When Topics Spike</h3>
+        <p align="left">A <b>neuromorphic topic model</b> for time-resolved theme evolution in early-risk text collections, bringing spiking dynamics to temporal topic modeling.</p>
+        <p align="left">
+          <sub><code>PyTorch</code> ⋅ <code>Spiking NN</code> ⋅ <code>Temporal</code></sub>
+          <br><br>
+          <em><strong>Private · under review</strong></em>
+        </p>
+      </div>
+    </td>
+  </tr>
+</tbody>
+</table>
+
 ---
 
-### 📝 Publications
+<details>
+<summary><b>📝 Selected publications</b></summary>
 
-**Published**
+<br>
 
-1. **Exploiting topic analysis models to explore psychological dimensions in social media data** — *Scientific Reports* (2026, **Q1**). [Read →](https://doi.org/10.1038/s41598-026-36339-y)
-2. **A study of word embedding models for measuring topic coherence** — *Knowledge and Information Systems* (2026, **Q2**). [Read →](https://doi.org/10.1007/s10115-026-02782-6)
+1. **Exploiting topic analysis models to explore psychological dimensions in social media data** — *Scientific Reports* (2026, Q1). [Read →](https://doi.org/10.1038/s41598-026-36339-y)
+2. **A study of word embedding models for measuring topic coherence** — *Knowledge and Information Systems* (2026, Q2). [Read →](https://doi.org/10.1007/s10115-026-02782-6)
 3. **LabChain: Enabling reproducible and modular scientific experiments in Python** — *SoftwareX* (2026). [Read →](https://www.sciencedirect.com/science/article/pii/S2352711026000373)
 4. **Analyzing Gambling Addictions: A Spanish Corpus for Understanding Pathological Behavior** — *Findings of the ACL: EMNLP 2025*. [Read →](https://aclanthology.org/2025.findings-emnlp.955/)
-5. **Temporal Word Embeddings for Early Detection of Psychological Disorders on Social Media** — *Journal of Healthcare Informatics Research* (2025, **Q1**). [Read →](https://link.springer.com/article/10.1007/s41666-025-00186-9)
-6. **Comparison of Clustering Algorithms for Knowledge Discovery in Social Media Publications: A Case Study of Mental Health Analysis** — *SEPLN / Procesamiento del Lenguaje Natural* (2024). [Read →](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6601)
+5. **Temporal Word Embeddings for Early Detection of Psychological Disorders on Social Media** — *Journal of Healthcare Informatics Research* (2025, Q1). [Read →](https://link.springer.com/article/10.1007/s41666-025-00186-9)
+6. **Comparison of Clustering Algorithms for Knowledge Discovery in Social Media Publications** — *SEPLN / Procesamiento del Lenguaje Natural* (2024). [Read →](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6601)
 7. **Temporal Word Embeddings for Early Detection of Signs of Depression** — *CIRCLE 2022* (CEUR Vol-3178). [Read →](https://ceur-ws.org/Vol-3178/CIRCLE_2022_paper_03.pdf)
 
-**Accepted — to appear**
+<sub>Full list on <a href="https://scholar.google.es/citations?user=AYXHeT4AAAAJ&hl=es">Google Scholar</a>.</sub>
 
-8. _Title TBC_ — *Venue TBC* (accepted, in press).
-9. _Title TBC_ — *Venue TBC* (accepted, in press).
-
-<sub>Full list & metrics on <a href="https://scholar.google.es/citations?user=AYXHeT4AAAAJ&hl=es">Google Scholar</a>.</sub>
+</details>
 
 ---
 
 ### 📈 GitHub Activity
-
-<p align="left">
-  <a href="https://github.com/manucouto1">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=manucouto1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/manucouto1">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manucouto1&layout=compact&count_private=true&hide_border=true&langs_count=8&theme=tokyonight" />
-  </a>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manucouto1/manucouto1/output/github-contribution-grid-snake-dark.svg" />

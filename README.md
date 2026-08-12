@@ -103,12 +103,12 @@
   <tr>
     <td width="50%" valign="top">
       <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; height: 100%;">
-        <h3 align="left">🦊 bored</h3>
+        <h3 align="left"><a href="https://github.com/manucouto1/bored">🦊 bored</a></h3>
         <p align="left">A <b>decentralized (P2P) social network</b> that runs as a node on your own device — no ads, no manipulative algorithm, local-first and ephemeral by default. Semantic discovery computed on-device. Made in Galicia 🌿.</p>
         <p align="left">
           <sub><code>Rust</code> ⋅ <code>libp2p</code> ⋅ <code>Tauri 2</code> ⋅ <code>Svelte 5</code> ⋅ <code>WebRTC</code></sub>
           <br><br>
-          <em><strong>Private · alpha</strong></em>
+          <a href="https://github.com/manucouto1/bored" target="_blank"><strong>Repo →</strong></a> ⋅ <a href="https://bored-dot.net/" target="_blank"><strong>Landing →</strong></a> ⋅ <em>alpha</em>
         </p>
       </div>
     </td>

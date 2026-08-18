@@ -83,12 +83,12 @@
     </td>
     <td width="50%" valign="top">
       <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; height: 100%;">
-        <h3 align="left"><a href="https://citius-iria-erisk.github.io/Chatty/">🦜 CHATTY → Chatty the Lab</a></h3>
-        <p align="left">From <b>CHATTY</b> (a tool to build &amp; evaluate customizable LLM assistants) to <b>Chatty the Lab</b>: multi-model comparison and a visual <b>Agent Studio</b> with parallel graph execution, on a Rust + SvelteKit stack.</p>
+        <h3 align="left"><a href="https://chatty-lab.com/">🦜 Chatty the Lab</a></h3>
+        <p align="left">An <b>experimentation environment for agentic systems</b>: define complex agentic flows, then execute and compare them in parallel. Multi-model comparison and a visual <b>Agent Studio</b>, on a Rust + SvelteKit stack. Grew out of <b>CHATTY</b>, a tool to build and evaluate customizable LLM assistants.</p>
         <p align="left">
           <sub><code>SvelteKit</code> ⋅ <code>Rust (Axum)</code> ⋅ <code>pgvector</code></sub>
           <br><br>
-          <a href="https://citius-iria-erisk.github.io/Chatty/" target="_blank"><strong>CHATTY website →</strong></a> ⋅ <em>Lab: private</em>
+          <a href="https://chatty-lab.com/" target="_blank"><strong>chatty-lab.com →</strong></a> ⋅ <em>prototype</em>
         </p>
       </div>
     </td>

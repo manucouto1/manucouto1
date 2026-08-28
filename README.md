@@ -59,12 +59,12 @@
     </td>
     <td width="50%" valign="top">
       <div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; height: 100%;">
-        <h3 align="left">🧬 Soma</h3>
-        <p align="left">The next step beyond LabChain: a <b>computational-graph runtime in Rust</b> (+ PyO3) for research pipelines and agent orchestration. Bayesian/PBT studies, distributed workers, MCP server. <em>You think it, Soma somatizes it.</em></p>
+        <h3 align="left"><a href="https://github.com/manucouto1/soma">🧬 Soma</a></h3>
+        <p align="left">The next step beyond LabChain: a <b>computational-graph runtime in Rust</b> (+ PyO3). Declare a graph as one expression, run it across machines, cache what is worth keeping, train it and search over it — then <b>ask it what it did</b>: the run drawn, the health of a network diagnosed from the stored record, an architecture opened up, and what an edit invalidated before paying to find out. <em>You think it, Soma somatizes it.</em></p>
         <p align="left">
-          <sub><code>Rust</code> ⋅ <code>PyO3</code> ⋅ <code>Distributed</code> ⋅ <code>MCP</code></sub>
+          <sub><code>Rust</code> ⋅ <code>PyO3</code> ⋅ <code>Distributed</code> ⋅ <code>Observability</code></sub>
           <br><br>
-          <em><strong>Private · in development</strong></em>
+          <a href="https://manucouto1.github.io/soma/" target="_blank"><strong>Docs →</strong></a> ⋅ <a href="https://github.com/manucouto1/soma" target="_blank"><strong>Repo →</strong></a> ⋅ <a href="https://pypi.org/project/somatize/" target="_blank"><strong>PyPI →</strong></a>
         </p>
       </div>
     </td>
